@@ -4,6 +4,14 @@ A full-stack user analytics platform that tracks page views and click events, an
 
 ---
 
+## Live Deployments
+
+- **Demo Store:** [https://casual-funnel-v45i.vercel.app/](https://casual-funnel-v45i.vercel.app/)
+- **Dashboard:** [https://casual-funnel-liard.vercel.app/](https://casual-funnel-liard.vercel.app/)
+- **Backend API:** [https://casualfunnel-2joc.onrender.com](https://casualfunnel-2joc.onrender.com)
+
+---
+
 ## Assignment Objective
 
 **Build a Simple User Analytics Application** to help e-commerce businesses understand user behavior through session tracking and analytics.
